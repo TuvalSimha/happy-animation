@@ -55,7 +55,7 @@ const YourComponent = () => {
 
 ## Example
 
-Visit our demo page to see happy-animation in action!
+[Visit our Storybook page to see happy-animation in action!](happy-animation-storybook.vercel.app)
 
 ## Contributing
 
