@@ -1,7 +1,7 @@
 {
   "name": "happy-animation",
-  "version": "1.0.2",
-  "description": "",
+  "version": "1.0.3",
+  "description": "A simple and easy to use animation library for React",
   "main": "dist/cjs/index.js",
   "module": "dist/esm/index.js",
   "types": "dist/index.d.ts",
