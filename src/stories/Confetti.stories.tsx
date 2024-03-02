@@ -1,7 +1,6 @@
 import type { Meta, StoryObj } from "@storybook/react";
 import ConfettiButton from "../components/confetti/confetti";
 
-// More on how to set up stories at: https://storybook.js.org/docs/writing-stories#default-export
 const meta = {
   title: "Confetti",
   component: ConfettiButton,
@@ -18,7 +17,7 @@ type Story = StoryObj<typeof meta>;
 
 export const Primary: Story = {
   args: {
-    duration: 10,
+    animationDuration: 4,
     shapes: ["square", "triangle", "circle"],
     colorDigit: "ABCDEF1234567890",
     confettiQuantity: 190,
