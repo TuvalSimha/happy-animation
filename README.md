@@ -54,9 +54,7 @@ const YourComponent = () => {
 - confettiQuantity: Number of confetti pieces to generate (default: 50).
 
 ## Example
-
-[Visit our Storybook page to see happy-animation in action!](happy-animation-storybook.vercel.app)
-
+https://happy-animation-storybook.vercel.app/
 ## Contributing
 
 We welcome contributions! If you find any issues or have ideas for improvements, feel free to open an issue or submit a pull request.
